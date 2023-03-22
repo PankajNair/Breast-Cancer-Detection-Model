@@ -1,6 +1,6 @@
 # Breast Cancer Detection Model
 ## Problem Statement
-
+Breast cancer is one of the leading causes of cancer-related deaths among women worldwide. Early detection of breast cancer is crucial for successful treatment and improved survival rates. However, accurate and timely detection of breast cancer remains a challenging problem due to the complexity of mammograms and the subtle differences between cancerous and non-cancerous tissues. The problem of breast cancer detection requires the development of advanced machine learning models that can effectively analyze mammogram data, accurately identify signs of breast cancer, and generalize well to new data. Addressing these challenges is crucial for the successful detection and treatment of breast cancer, which can significantly improve patient outcomes and reduce cancer-related mortality rates.
 ## Data Information
 The dataset can be download using this [link](https://drive.google.com/file/d/1HQqUCF23fihnE3aCbx2MNPmER9o_If_m/view)
 
